@@ -1,0 +1,14 @@
+#loginContainer{
+    width: 400px;
+}
+#success-message {
+    padding-bottom: 50px;
+    width: 400px;
+    min-height: 200px;
+}
+.success-message-1 {
+    min-height: 200px;
+}
+.min-width-button{
+    min-width: 100px;
+}
